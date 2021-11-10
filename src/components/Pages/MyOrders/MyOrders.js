@@ -33,7 +33,7 @@ const MyOrders = () => {
                 setOrders(orders.data);
                 setIsLoading(false);
             });
-    }, []);
+    }, [values]);
 
     const hanldeDelete = (id) => {
         confirmAlert({

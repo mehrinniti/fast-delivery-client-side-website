@@ -1,10 +1,10 @@
 
 
-# FAST Delivery - Professional delivery services (Server-side)
+# FAST Delivery - Professional delivery services (Client-side)
 
 Fast delivery is a worldwide delivery service provider based in Bangladesh.
 
-<!-- [Visit our website](https://deliveryhut-3fafc.web.app/) -->
+[Visit our website](https://awesome-mayer-0d3c7a.netlify.app/)
 
 ## About the website -
 
